@@ -1,0 +1,23 @@
+_repo: Men-Women-and-God-A-Discussion-of-Sex-Questions-from-the-Christian-Point-of-View_6579
+creator:
+  author:
+    agent_name: Gray, Arthur Herbert
+    birthdate: 1868
+    deathdate: 1956
+    gutenberg_agent_id: '2094'
+    url: http://www.gutenberg.org/2009/agents/2094
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6579'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sexual ethics -- Early 20th century'
+- !lcc 'HQ'
+title: "Men, Women, and God\r\nA Discussion of Sex Questions from the Christian Point\
+  \ of View"
+url: http://www.gutenberg.org/ebooks/6579
