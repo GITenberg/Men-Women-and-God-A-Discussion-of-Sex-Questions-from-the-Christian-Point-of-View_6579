@@ -1,4 +1,8 @@
 _repo: Men-Women-and-God-A-Discussion-of-Sex-Questions-from-the-Christian-Point-of-View_6579
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gray, Arthur Herbert
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '2094'
     url: http://www.gutenberg.org/2009/agents/2094
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6579#Men-Women-and-God-A-Discussion-of-Sex-Questions-from-the-Christian-Point-of-View
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
